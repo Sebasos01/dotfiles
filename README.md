@@ -1,5 +1,6 @@
 # Dotfiles & Configs
 
+83fb32e on Aug 2, 2020 -> my reference version
 ![Qtile](.screenshots/qtile.png)
 
 ***Language***
